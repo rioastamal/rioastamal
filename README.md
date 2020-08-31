@@ -29,6 +29,8 @@ In the recent time I mainly focused on cloud computing especially on [AWS](https
 - 2011 &rarr; [miras](https://github.com/rioastamal/miras)
 - 2008 &rarr; [astahttpd](https://github.com/rioastamal/astahttpd)
 
+You can also find a lot of code examples for various topic such as PHP, Serverless etc on my examples repository at [github.com/rioastamal-examples](https://github.com/rioastamal-examples/).
+
 ### Where you can find me
 
 - [RioAstamal.net](https://rioastamal.net)
