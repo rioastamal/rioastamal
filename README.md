@@ -8,6 +8,7 @@ In the recent time I mainly focused on cloud computing especially on [AWS](https
 
 ### My open source softwares on GitHub
 
+- 2022 &rarr; [Gembok](https://github.com/rioastamal/gembok)
 - 2021 &rarr; [shDirListing](https://github.com/rioastamal/shdir-listing)
 - 2020 &rarr; [shFokus](https://github.com/rioastamal/shfokus)
 - 2020 &rarr; [teknocerdas-monokai](https://github.com/rioastamal/teknocerdas-monokai)
