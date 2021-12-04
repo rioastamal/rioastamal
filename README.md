@@ -37,7 +37,6 @@ You can also find a lot of code examples for various topic such as PHP, Serverle
 ### Where you can find me
 
 - [RioAstamal.net](https://rioastamal.net)
-- [BelajarAWS.com](https://belajaraws.com)
 - [TeknoCerdas.com](https://teknocerdas.com)
 - [LinkedIn.com/in/rioastamal](https://linkedin.com/in/rioastamal/)
 - [Instagram.com/rioastamal2](https://instagram.com/rioastamal2/)
