@@ -2,7 +2,7 @@
 
 Hello there, my name is Rio Astamal. I am a passionate web developer since 2003. On this GitHub page you will find all my open source projects.
 
-I'm a big fan of GNU/Linux, web development and anything related to open source technologies. Therefore, since 2004 I focused on web development especially on PHP, Javascript, MySQL, Apache, Nginx and others as foundation to build the solution.
+I'm a big fan of GNU/Linux, web development and anything related to open source technologies. Therefore, since 2004 I focused on web development especially on PHP, Javascript, MySQL, Apache, Nginx and others as foundation to build the solutions.
 
 In the recent time I mainly focused on cloud computing especially on [AWS](https://aws.amazon.com) platform. When building the infrastructure I love using [Terraform](https://www.terraform.io) as "Infrastructure as Code" tool.
 
