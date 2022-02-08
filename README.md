@@ -4,6 +4,7 @@ Hello there, my name is Rio Astamal. I am a passionate web developer since 2003.
 
 ### My open source softwares on GitHub
 
+- 2022 &rarr; [spot-dev-machine](https://github.com/rioastamal/spot-dev-machine)
 - 2021 &rarr; [Gembok](https://github.com/rioastamal/gembok)
 - 2021 &rarr; [shDirListing](https://github.com/rioastamal/shdir-listing)
 - 2020 &rarr; [shFokus](https://github.com/rioastamal/shfokus)
