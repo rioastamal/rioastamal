@@ -4,6 +4,7 @@ Hello there, my name is Rio Astamal. I am a passionate web developer since 2003.
 
 ### My open source softwares on GitHub
 
+- 2022 &rarr; [lightsail-containers-autoscaler](https://github.com/rioastamal/lightsail-containers-autoscaler)
 - 2022 &rarr; [workshop-amazon-lightsail-containers](https://github.com/rioastamal/workshop-amazon-lightsail-containers)
 - 2022 &rarr; [spot-dev-machine](https://github.com/rioastamal/spot-dev-machine)
 - 2021 &rarr; [Gembok](https://github.com/rioastamal/gembok)
