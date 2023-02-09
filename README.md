@@ -2,7 +2,7 @@
 
 Hello there, my name is Rio Astamal. I am a passionate web developer since 2003. On this GitHub page you will find all my open source projects. In the recent time I mainly focused on cloud computing especially on [AWS](https://aws.amazon.com) platform. When building the infrastructure I love using [Terraform](https://www.terraform.io) as "Infrastructure as Code" tool.
 
-### My open source softwares on GitHub
+### My open source projects on GitHub
 
 - 2023 &rarr; [lightsail-k8s-installer](https://github.com/rioastamal/lightsail-k8s-installer)
 - 2022 &rarr; [lightsail-containers-autoscaler](https://github.com/rioastamal/lightsail-containers-autoscaler)
