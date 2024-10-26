@@ -4,6 +4,7 @@ Hello there, my name is Rio Astamal. I am a passionate web developer since 2003.
 
 ### My open source projects on GitHub
 
+- 2024 &rarr; [installer-vscode-for-web](https://github.com/rioastamal/proxmox-installer-sh)
 - 2023 &rarr; [installer-vscode-for-web](https://github.com/rioastamal/installer-vscode-for-web)
 - 2023 &rarr; [lightsail-miab-installer](https://github.com/rioastamal/lightsail-miab-installer)
 - 2023 &rarr; [lightsail-k8s-installer](https://github.com/rioastamal/lightsail-k8s-installer)
