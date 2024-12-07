@@ -3,7 +3,7 @@
 Hello there, my name is Rio Astamal. I am a passionate web developer since 2003. On this GitHub page you will find all my open source projects. Recently, my main focus has been on cloud computing, particularly on [AWS](https://aws.amazon.com) platform. When building infrastructure I love using [Terraform](https://www.terraform.io) as my "Infrastructure as Code" tool.
 
 ### My open source projects on GitHub
-
+- 2024 &rarr; [ec2-ondemand-prices](https://github.com/rioastamal/ec2-ondemand-prices)
 - 2024 &rarr; [easy-aws-helper](https://github.com/rioastamal/easy-aws-helper)
 - 2024 &rarr; [caddy-plus-security](https://github.com/rioastamal/caddy-plus-security)
 - 2024 &rarr; [promox-installer-sh](https://github.com/rioastamal/proxmox-installer-sh)
